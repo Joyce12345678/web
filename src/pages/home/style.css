@@ -21,7 +21,7 @@ section {
 }
 
 .btn-portfolio a {
-    color: #000;
+    color: #3c547e;
     text-decoration: none;
 }
 
@@ -99,7 +99,7 @@ section {
 }
 
 .ac_btn {
-    padding: 4px 19px;
+    padding: 5px 19px;
     color: var(--secondary-color);
     position: relative;
     border: var(--secondary-color) 2px solid;

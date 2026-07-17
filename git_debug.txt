@@ -1,0 +1,20 @@
+STATUS 
+ M package.json
+ M src/app/App.js
+ M src/app/routes.js
+ M src/components/socialicons/style.css
+ M src/content_option.js
+ M src/header/index.js
+ M src/index.css
+ M src/pages/contact/index.js
+ M src/pages/home/index.js
+ M src/pages/home/style.css
+ M yarn.lock
+?? git_debug.txt
+?? package-lock.json
+?? public/audio/
+--- 
+master
+--- 
+origin	https://github.com/ubaimutl/react-portfolio.git (fetch)
+origin	https://github.com/ubaimutl/react-portfolio.git (push)

@@ -38,6 +38,13 @@ export const Home = () => {
                   />
                 </h1>
                 <p className="mb-1x">{introdata.description}</p>
+                <div className="music-player mb-3">
+                  <p className="mb-1x">Music: 1989 by Nightly</p>
+                  <audio controls>
+                    <source src="/audio/1989-nightly.mp3" type="audio/mpeg" />
+                    Your browser does not support the audio element.
+                  </audio>
+                </div>
                 <div className="intro_btn-action pb-5">
                   <Link to="/portfolio" className="text_2">
                     <div id="button_p" className="ac_btn btn ">
@@ -47,9 +54,9 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
-                  <Link to="/contact">
+                  <Link to="/about">
                     <div id="button_h" className="ac_btn btn">
-                      Contact Me
+                      About Me
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
