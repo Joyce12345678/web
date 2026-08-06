@@ -59,8 +59,8 @@ const dataportfolio = [{
     },
     {
         img: "https://r2.starryai.com/results/1014564608/fc6e9b8f-1f51-49f8-a0fb-1bae21fe25af.webp",
-        description: "My old YouTube channel where I used to edit and make silly videos",
-        link: "https://www.youtube.com/@JoyceGL",
+        description: "4:20",
+        link: "https://www.bilibili.com/video/BV1Ts2RBmETi ",
     },
 ];
 
